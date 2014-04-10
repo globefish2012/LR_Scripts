@@ -1,0 +1,4 @@
+/R2_Final/**/data/
+!/R2_Final/**/Action.c
+!/R2_Final/**/vuser_init.c
+!/R2_Final/**/vuser_end.c
